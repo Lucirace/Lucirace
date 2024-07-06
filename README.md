@@ -29,7 +29,7 @@
 
 </h>
 
-<img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nipun</h2>
+<img alt="Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nipun</h2>
 
 - 🎓 I'm doing my Bachelor's in Electronics and Communication Engineering at UIET Panjab University Chandigarh.
 
