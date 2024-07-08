@@ -35,7 +35,7 @@
 
 - 🔭 Achieved a **Top 6 position and prize money at the Vihaan007 Offline Hackathon** among 1300+ participants in April 2024
  
-- 💬 Read this [Blog]()  post to know more about the hackathon.
+- 💬 Read this [Blog](https://ecency.com/vihaan/@lucirace/introducing-hivestar-an-image-sharing)  post to know more about the hackathon.
 
 - 👨‍💻 I do Graphic designing as a side hustle, see some of my [Designs]() here.
 
