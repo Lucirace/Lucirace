@@ -37,8 +37,6 @@
  
 - 💬 Read this [Blog](https://ecency.com/vihaan/@lucirace/introducing-hivestar-an-image-sharing)  post to know more about the hackathon.
 
-- 👨‍💻 I do Graphic designing as a side hustle, see some of my [Designs]() here.
-
 - 🌱 I’m currently developing and learning about **DDoS, GRPC, WebRTC** and more.
 
 - ⚡ I'm on track to learn more about WEB 3.0, Systems Design and AI Tools.
